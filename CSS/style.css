@@ -89,7 +89,7 @@ body{
 }
 
 .sec1{
-    color: white;
+    color: black;
     height: 50vh;
     padding: 50px;
     background-color: grey;
@@ -97,11 +97,13 @@ body{
     border-radius: 45px;
     background-image: url("/images/code.jpg");
     background-size: cover;
+    
 }
 
 .sec1:hover{
     box-shadow: 5px 5px 5px;
-    color: blue;
+    color: white;
+    
 }
 
 
@@ -116,6 +118,8 @@ body{
 .sec2:hover{
     box-shadow: 5px 5px 5px;
     color: white;
+    font-weight: 700;
+    text-shadow: 2px 2px 3px;
 }
 
 .sec3{
@@ -133,8 +137,14 @@ body{
     color: white;
 }
 
+.sec3 a:hover{
+    color: white;
+    font-weight: 700;
+}
+
 .section h1{
     text-align: center;
+    color: black;
 }
 
  
@@ -154,6 +164,11 @@ body{
     background-color: black;
     border: 2px solid black;
     border-radius: 45px;
+}
+
+.sec4>h1{
+    color: white;
+    text-align: right;
 }
 
 .mail{
