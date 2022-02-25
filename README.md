@@ -5,7 +5,7 @@
 #### By Joseph Kenedy Oderoh
 
 ## Description
-This is a detailed description of a landing page of a portfolio.This page describes abit about my self.It gives information expiriences and background also gives links to projects worked on in future.
+This is a detailed description of a landing page of a portfolio.This page describes abit about my self.It gives information expiriences and background also gives links to projects worked on in the past.
 ## Setup/Installation Requirements
 * You will first need to get into a browser or access to one.
 * Navigate to GitHub locate the live link
