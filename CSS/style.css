@@ -1,4 +1,6 @@
-*{
+
+
+ *{
     margin: 0;
     padding: 0;
     box-sizing: content-box;
@@ -23,6 +25,10 @@ body{
     text-decoration: none;
 }
 
+.ul a:hover{
+    color: white;
+}
+
 .blvck{
     
     border: 2px solid white;
@@ -36,3 +42,91 @@ body{
     font-size: larger;
 }
 
+.joes{
+    text-align: center;
+    text-shadow: 2px 2px 3px;
+}
+
+.blk{
+    float: right;
+    height: 600px;
+    padding: 130px;
+    width: 600px;
+    background-image: url("/images/Jk-blvck.jpg");
+    background-size: cover;
+    margin-right: 250px;
+
+}
+
+.about{
+    text-align: center;
+    font-weight: 500px;
+    margin-top: 75%;
+}
+
+.section{
+    padding: 30px;
+    background-color: grey;
+    margin: 20px;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-image: url("/images/code.jpg");
+    background-size: cover;
+}
+
+.section:hover{
+    box-shadow: 5px 5px 5px;
+    color: black;
+}
+
+.sec1{
+    height: 100vh;
+    padding: 50px;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 45px;
+}
+
+.sec1:hover{
+    box-shadow: 5px 5px 5px;
+    color: white;
+}
+
+.sec2{
+    height: 50vh;
+    padding: 50px;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 45px;
+}
+
+.sec2:hover{
+    box-shadow: 5px 5px 5px;
+    color: white;
+}
+
+.sec3{
+    height: 50vh;
+    padding: 50px;
+    background-color: grey;
+    border: 2px solid blue;
+    border-radius: 45px;
+}  
+
+.sec3:hover{
+    box-shadow: 5px 5px 5px;
+    color: white;
+}
+
+.sec4{
+    height: 50vh;
+    padding: 50px;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 45px;
+} 
+
+.sec3:hover{
+    box-shadow: 5px 5px 5px;
+    color: white;
+}
