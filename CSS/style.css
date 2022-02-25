@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+body{
+    background-color: rgba(219, 219, 231, 0.897);
+    background:linear-gradient (white 25%,black );
+}
+
+.navbar{
+    background-color: black;
+}
+
+.ul{
+   list-style-type: none;
+   display: flex;
+   gap: 50px;
+   
+}
+
+.ul a{
+    text-decoration: none;
+}
+
+.blvck{
+    
+    border: 2px solid white;
+    border-radius: 75px;
+    background-color: white;
+}
+
+.blvck a{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: larger;
+}
+
