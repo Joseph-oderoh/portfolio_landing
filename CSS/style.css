@@ -12,6 +12,9 @@ body{
 
 .navbar{
     background-color: black;
+    position: fixed;
+
+    
 }
 
 .ul{
@@ -42,10 +45,6 @@ body{
     font-size: larger;
 }
 
-.joes{
-    text-align: center;
-    text-shadow: 2px 2px 3px;
-}
 
 .blk{
     float: right;
@@ -57,6 +56,16 @@ body{
     margin-right: 250px;
 
 }
+
+.joes{
+    
+    text-align: right;
+    text-shadow: 2px 2px 3px;
+    margin-right: 200px;
+    
+
+}
+
 
 .about{
     text-align: center;
@@ -76,21 +85,25 @@ body{
 
 .section:hover{
     box-shadow: 5px 5px 5px;
-    color: black;
+   
 }
 
 .sec1{
-    height: 100vh;
+    color: white;
+    height: 50vh;
     padding: 50px;
     background-color: grey;
     border: 2px solid black;
     border-radius: 45px;
+    background-image: url("/images/code.jpg");
+    background-size: cover;
 }
 
 .sec1:hover{
     box-shadow: 5px 5px 5px;
-    color: white;
+    color: blue;
 }
+
 
 .sec2{
     height: 50vh;
@@ -106,9 +119,11 @@ body{
 }
 
 .sec3{
+    color: white;
     height: 50vh;
     padding: 50px;
-    background-color: grey;
+    background-image: url("/images/jk.jpg");
+    background-size: cover;
     border: 2px solid blue;
     border-radius: 45px;
 }  
@@ -118,15 +133,55 @@ body{
     color: white;
 }
 
-.sec4{
-    height: 50vh;
-    padding: 50px;
-    background-color: grey;
-    border: 2px solid black;
-    border-radius: 45px;
-} 
+.section h1{
+    text-align: center;
+}
 
-.sec3:hover{
+ 
+
+.sec4:hover{
     box-shadow: 5px 5px 5px;
     color: white;
+}
+.sec4{
+    color: white;
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 45px;
+    height: 30vh;
+    padding: 50px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 45px;
+}
+
+.mail{
+    padding: 50px;
+
+    color: blue; 
+    border-radius: 45px;
+    text-align: center;
+}
+
+.mail a{
+    text-decoration: none;
+}
+
+.tell{
+    padding: 50px;
+    color: blue; 
+    border-radius: 45px;
+    text-align: center;
+}
+
+.tell a{
+      text-decoration: none;
+}
+
+.socials{
+    padding: 50px;
+    color: blue; 
+    border-radius: 45px;
+    text-align: center;
 }
