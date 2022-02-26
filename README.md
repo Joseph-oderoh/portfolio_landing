@@ -18,7 +18,7 @@ This is a detailed description of a landing page of a portfolio.This page descri
 * Git clone  the repo which will be automatically saved in your local machine.
 * then veiw it in live server
 ## Known Bugs
-I am not awear of any bugs.
+I am not aware of any bugs.
 
 ## Technologies Used
 For this project I use technologies such as HTML and CSS I also managed to include a little bootstrap to do css styling.
