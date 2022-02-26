@@ -9,7 +9,7 @@ This is a detailed description of a landing page of a portfolio.This page descri
 ## Setup/Installation Requirements
 * You will first need to get into a browser or access to one.
 * Navigate to GitHub locate the live link
-* Next click on this live link
+* Next click on this live link https://joseph-oderoh.github.io/portfolio_landing/
 * This will direct you to a new tab displaying the details of the portforlio.
 
 
