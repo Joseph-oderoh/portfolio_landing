@@ -60,6 +60,10 @@ body{
     margin-top: 50px;
 }
 
+.blk img:hover{
+     box-shadow: 5px 5px 5px;
+}
+
 .joes{
     
     text-align: right;
