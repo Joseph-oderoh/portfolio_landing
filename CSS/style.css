@@ -86,7 +86,7 @@ body{
     margin: 20px;
     flex-direction: column;
     justify-content: space-evenly;
-    background-image: url("/images/code.jpg");
+    background-image: url("../images/code.jpg");
     background-size: cover;
 }
 
@@ -102,7 +102,7 @@ body{
     background-color: grey;
     border: 2px solid black;
     border-radius: 45px;
-    background-image: url("/images/code.jpg");
+    background-image: url("../images/code.jpg");
     background-size: cover;
     
 }
@@ -133,7 +133,7 @@ body{
     color: white;
     height: 50vh;
     padding: 50px;
-    background-image: url("/images/jk.jpg");
+    background-image: url("../images/jk.jpg");
     background-size: cover;
     border: 2px solid blue;
     border-radius: 45px;
